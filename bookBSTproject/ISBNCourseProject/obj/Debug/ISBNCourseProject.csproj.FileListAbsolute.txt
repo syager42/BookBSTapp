@@ -1,0 +1,10 @@
+C:\Users\Astreia\source\repos\ISBNCourseProject\ISBNCourseProject\bin\Debug\ISBNCourseProject.exe.config
+C:\Users\Astreia\source\repos\ISBNCourseProject\ISBNCourseProject\bin\Debug\ISBNCourseProject.exe
+C:\Users\Astreia\source\repos\ISBNCourseProject\ISBNCourseProject\bin\Debug\ISBNCourseProject.pdb
+C:\Users\Astreia\source\repos\ISBNCourseProject\ISBNCourseProject\obj\Debug\ISBNCourseProject.csprojResolveAssemblyReference.cache
+C:\Users\Astreia\source\repos\ISBNCourseProject\ISBNCourseProject\obj\Debug\ISBNCourseProject.Form1.resources
+C:\Users\Astreia\source\repos\ISBNCourseProject\ISBNCourseProject\obj\Debug\ISBNCourseProject.Properties.Resources.resources
+C:\Users\Astreia\source\repos\ISBNCourseProject\ISBNCourseProject\obj\Debug\ISBNCourseProject.csproj.GenerateResource.cache
+C:\Users\Astreia\source\repos\ISBNCourseProject\ISBNCourseProject\obj\Debug\ISBNCourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Astreia\source\repos\ISBNCourseProject\ISBNCourseProject\obj\Debug\ISBNCourseProject.exe
+C:\Users\Astreia\source\repos\ISBNCourseProject\ISBNCourseProject\obj\Debug\ISBNCourseProject.pdb
